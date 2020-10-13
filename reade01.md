@@ -45,3 +45,14 @@ state : It includes styles of elements status. With state rules adjustments are 
 theme: It includes styles of the theme. The theme rules more applicable for larger websites . As small projects mostly has only one theme, it is not essential to use for them.
 
 ```/* in modules.css */.mod {  border: 1px solid;}/* in theme.css */ .mod {border-color: blue;}```
+
+![](https://miro.medium.com/max/700/1*EqNOOn4VG-c6dvMIEZGTRA.png)
+
+
+# what is Responsive web design
+
+Responsive web design (RWD) is a website design approach that recommends building a single website that adapts to all devices and platforms. This avoids the duplication of effort involved in building separate desktop and mobile websites. A website built to RWD principles uses floating content elements, an adjustable page layout, and dynamically resized images to accommodate various viewport sizes and device capabilities. In other words, the site responds to the user's requirements.
+
+The Magnolia Standard Templating Kit (STK) implements the RWD principles. A website built with the STK can deliver a browsing experience that works well on desktop browsers, smartphones, tablets and other types of clients. In this article we look at how the RWD technology is built into the system.
+
+![](https://help.hcltechsw.com/commerce/7.0.0/com.ibm.commerce.aurora-starterstore.doc/images/locale/screensnap/smaurorarwdconceptscreen.png)
