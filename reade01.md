@@ -13,15 +13,15 @@ base: It is used for html tags like html, body, a, a:hover. It also can included
 
 layout: It is used for divide css in sections like header, footer, sidebar. Id recommended for single usage, classes are recommended for multiple usage. “l-” or “layout-” prefix should be added for naming.
 
-#article { 
-width: 80%; float: left; }#sidebar { width: 20%; float: right; 
-} 
-l-fixed #article { 
-width: 600px; 
-} 
-l-fixed #sidebar {
-width: 200px;
-}
+```#article { ```
+```width: 80%; float: left; }#sidebar { width: 20%; float: right; ```
+```} ```
+```l-fixed #article { ```
+```width: 600px; ```
+```} ```
+```l-fixed #sidebar {```
+```width: 200px;```
+```}```
 
 module: It consist of reusable blocks which are smaller than layouts. Some of modules are form, menu, list, panel. It is not recommended to use Id, instead of it class should be used. In large projects element selectors not recommended too.
 
