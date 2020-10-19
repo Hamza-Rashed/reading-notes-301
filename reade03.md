@@ -33,8 +33,6 @@ The following simple layout requirements are either difficult or impossible to a
 
 As you'll see in subsequent sections, flexbox makes a lot of layout tasks much easier. Let's dig in!
 
-```section {
-  display: flex;
-}```
+``` section {display: flex} ```
 
 ![](https://miro.medium.com/max/2732/1*HFAEJvVOq4AwFuBivNu_OQ.png)
