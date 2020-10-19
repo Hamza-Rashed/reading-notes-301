@@ -12,21 +12,20 @@ I offer some of the necessary instructions for any programmer, regardless of the
 ## [Code 301 - Intermediate Software Development]()
 ## [Code 401 - Advanced Software Development]()
 
-|**Title**|    **click**             |  **contents**|
-|---        |---                     |    ---     |
-|  class-01  | [Responsive Overview   ](https://hamza-rashed.github.io/reading-notes-301/reade01)    |         |
-|  class-02  | [jQuery, Events, and The DOM ](https://hamza-rashed.github.io/reading-notes-301/reade02)   |   |
-|  class-03  |  [Link](/read-03.md)   |            |
-|  class-04  | [Link](/read-04.md)    |            |
-|  class-05  |  [Link](/read-05.md)   |            |
-|  class-06  | [Link](/read-06.md)    |            |
-|  class-07  |[Link](/read-07.md)     |            |
-|  class-08  |[Link](/read-08.md)     |            |
-|  class-09  | [Link](/read-09.md)    |            |
-|  class-10  | [Link](/read-10.md)    |            |
-|  class-11  |  [Link](/read-11.md)   |            |
-|  class-12  | [Link](/read-12.md)    |            |
-|  class-13  | [Link](/read-13.md)    |            |
-|  class-14  | [Link](/read-14.md)    |            |
-|  class-15  | [Link](/read-15.md)    |            |
-
+|**Title**|    **click**             |
+|---        |---                     |
+|  class-01  | [Responsive Overview   ](https://hamza-rashed.github.io/reading-notes-301/reade01)    |         
+|  class-02  | [jQuery, Events, and The DOM ](https://hamza-rashed.github.io/reading-notes-301/reade02)   |  
+|  class-03  |  [Link](/read-03.md)   |            
+|  class-04  | [Link](/read-04.md)    |            
+|  class-05  |  [Link](/read-05.md)   |            
+|  class-06  | [Link](/read-06.md)    |            
+|  class-07  |[Link](/read-07.md)     |           
+|  class-08  |[Link](/read-08.md)     |            
+|  class-09  | [Link](/read-09.md)    |           
+|  class-10  | [Link](/read-10.md)    |            
+|  class-11  |  [Link](/read-11.md)   |            
+|  class-12  | [Link](/read-12.md)    |           
+|  class-13  | [Link](/read-13.md)    |            
+|  class-14  | [Link](/read-14.md)    |           
+|  class-15  | [Link](/read-15.md)    |            
