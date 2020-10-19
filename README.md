@@ -14,8 +14,8 @@ I offer some of the necessary instructions for any programmer, regardless of the
 
 |**Title**|    **click**             |  **contents**|
 |---        |---                     |    ---     |
-|  class-01  | [Responsive Overview   ](https://hamza-rashed.github.io/reading-notes-301/read01)    |         |
-|  class-02  | [jQuery, Events, and The DOM ](https://hamza-rashed.github.io/reading-notes-301/read02)   |   |
+|  class-01  | [Responsive Overview   ](https://hamza-rashed.github.io/reading-notes-301/reade01)    |         |
+|  class-02  | [jQuery, Events, and The DOM ](https://hamza-rashed.github.io/reading-notes-301/reade02)   |   |
 |  class-03  |  [Link](/read-03.md)   |            |
 |  class-04  | [Link](/read-04.md)    |            |
 |  class-05  |  [Link](/read-05.md)   |            |
