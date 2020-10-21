@@ -10,7 +10,7 @@ Basic example
 The example below shows a three-column track grid with new rows created at a minimum of 100 pixels and a maximum of auto. 
 Items have been placed onto the grid using line-based placement.
 HTML
-
+```
 <div class="wrapper">
   <div class="one">One</div>
   <div class="two">Two</div>
@@ -52,3 +52,4 @@ CSS
   grid-column: 3;
   grid-row: 4;
 }
+```
