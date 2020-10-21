@@ -17,7 +17,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |  class-01  | [Responsive Overview   ](https://hamza-rashed.github.io/reading-notes-301/reade01)    |         
 |  class-02  | [jQuery, Events, and The DOM ](https://hamza-rashed.github.io/reading-notes-301/reade02)   |  
 |  class-03  |  [Flexbox and Templating](https://hamza-rashed.github.io/reading-notes-301/reade03)   |            
-|  class-04  | [Responsive Web Design and Regular Expressions](https://hamza-rashed.github.io/reading-notes-301/reade03)    |            
+|  class-04  | [Responsive Web Design and Regular Expressions](https://hamza-rashed.github.io/reading-notes-301/reade04)    |            
 |  class-05  |  [Link](/read-05.md)   |            
 |  class-06  | [Link](/read-06.md)    |            
 |  class-07  |[Link](/read-07.md)     |           
