@@ -19,7 +19,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |  class-03  |  [Flexbox and Templating](https://hamza-rashed.github.io/reading-notes-301/reade03)   |            
 |  class-04  | [Responsive Web Design and Regular Expressions](https://hamza-rashed.github.io/reading-notes-301/reade04)    |            
 |  class-05  |  [Heroku](https://hamza-rashed.github.io/reading-notes-301/reade05)   |            
-|  class-06  | [Link](/read-06.md)    |            
+|  class-06  | [Nodejs , Express js and APIs](https://hamza-rashed.github.io/reading-notes-301/reade06)    |            
 |  class-07  |[Link](/read-07.md)     |           
 |  class-08  |[Link](/read-08.md)     |            
 |  class-09  | [Link](/read-09.md)    |           
