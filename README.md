@@ -23,7 +23,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |  class-07  |[What Google Learned From Its Quest to Build the Perfect Team](https://hamza-rashed.github.io/reading-notes-301/reade07)     |           
 |  class-08  |[SQL](https://hamza-rashed.github.io/reading-notes-301/reade08)     |            
 |  class-09  | [FUNCTIONAL PROGRAMMING && Refactoring](https://hamza-rashed.github.io/reading-notes-301/reade09)    |           
-|  class-10  | [Link](/read-10.md)    |            
+|  class-10  | [Call Stack && Debugging](https://hamza-rashed.github.io/reading-notes-301/reade10)    |            
 |  class-11  |  [Link](/read-11.md)   |            
 |  class-12  | [Link](/read-12.md)    |           
 |  class-13  | [Link](/read-13.md)    |            
