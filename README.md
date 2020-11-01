@@ -24,7 +24,7 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |  class-08  |[SQL](https://hamza-rashed.github.io/reading-notes-301/reade08)     |            
 |  class-09  | [FUNCTIONAL PROGRAMMING && Refactoring](https://hamza-rashed.github.io/reading-notes-301/reade09)    |           
 |  class-10  | [Call Stack && Debugging](https://hamza-rashed.github.io/reading-notes-301/reade10)    |            
-|  class-11  |  [Link](/read-11.md)   |            
+|  class-11  |  [EJS Partials](https://hamza-rashed.github.io/reading-notes-301/reade11)   |            
 |  class-12  | [Link](/read-12.md)    |           
 |  class-13  | [Link](/read-13.md)    |            
 |  class-14  | [Link](/read-14.md)    |           
