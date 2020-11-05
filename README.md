@@ -27,5 +27,5 @@ I offer some of the necessary instructions for any programmer, regardless of the
 |  class-11  |  [EJS Partials](https://hamza-rashed.github.io/reading-notes-301/reade11)   |            
 |  class-12  | [EJS](https://hamza-rashed.github.io/reading-notes-301/reade12)    |           
 |  class-13  | [SENDING FORM DATA](https://hamza-rashed.github.io/reading-notes-301/reade13)    |            
-|  class-14  | [Link](/read-14.md)    |           
-|  class-15  | [Link](/read-15.md)    |            
+|  class-14  | [Database Normalization](https://hamza-rashed.github.io/reading-notes-301/reade14)    |           
+|  class-15  | [Diversity and Inclusion](https://hamza-rashed.github.io/reading-notes-301/reade15)    |            
